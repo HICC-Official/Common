@@ -5,39 +5,64 @@
 
 # 멘토 소개
 <table>
-  <thead>
-    <tr style="background-color:#fff">
-      <th colspan="2" style="text-align:center">
-        <img src="mentor/mentor_1.jpg" width="200px" height="200px" />
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#fff">
-      <td style="text-align:center">
-        이름
-      </td>
-      <td style="text-align:center">
-        Lai_Khan
-      </td>
-    </tr>
-    <tr style="background-color:#fff">
-      <td style="text-align:center">
-        경력
-      </td>
-      <td style="text-align:center">
-        (현) 네이버
-      </td>
-    </tr>
-    <tr style="background-color:#fff">
-      <td style="text-align:center">
-        주요 분야
-      </td>
-      <td style="text-align:center">
-        웹 백엔드
-      </td>
-    </tr>
-  </tbody>
+  <!-- Mentore Image -->
+  <tr style="background-color:#fff">
+    <td colspan="2" style="text-align:center">
+      <img src="mentor/mentor_1.jpg" width="200px" height="200px" />
+    </td>
+    <td colspan="2" style="text-align:center">
+      <img src="mentor/mentor_2.jpg" width="200px" height="200px" />
+    </td>
+  </tr>
+  <!-- Mentor Name -->
+  <tr style="background-color:#fff">
+    <td class="text-center" style="text-align:center">
+      이름
+    </td>
+    <td class="mentor-name" id="lai-khan" style="text-align:center;color:#f00">
+      Lai_Khan
+    </td>
+    <td class="text-center" style="text-align:center">
+      이름
+    </td>
+    <td class="mentor-name" id="guardian_demon">
+      Guardian_demoN
+    </td>
+  </tr>
+  <!-- Mentor Position -->
+  <tr style="background-color:#fff">
+    <td class="text-center"style="text-align:center">
+      경력
+    </td>
+    <td style="text-align:center">
+      (현) 네이버
+    </td>
+    <td class="text-center" style="text-align:center">
+      경력
+    </td>
+    <td style="text-align:center">
+      <ul>
+        <li>(현) 삼성 디스플레이</li>
+        <li>(전) 인플랩</li>
+        <li>(전) 프리랜서</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Main Field -->
+  <tr style="background-color:#fff">
+    <td  class="text-center" style="text-align:center">
+      주요 분야
+    </td>
+    <td  class="text-center" style="text-align:center">
+      웹 백엔드
+    </td>
+    <td  class="text-center" style="text-align:center">
+      주요 분야
+    </td>
+    <td  class="text-center" style="text-align:center">
+      하드웨어, 타당성 등
+    </td>
+  </tr>
 </table>
 
 # 프로그램 상세
