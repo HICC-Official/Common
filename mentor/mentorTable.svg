@@ -38,10 +38,10 @@
         <!-- Mentore Image -->
         <tr>
           <td colspan="2">
-            <img src="mentor_1.jpg" width="200px" height="200px" />
+            <img src="/mentor/mentor_1.jpg" width="200px" height="200px" />
           </td>
           <td colspan="2" class="text-center">
-            <img src="mentor_2.png" width="200px" height="200px" />
+            <img src="/mentor/mentor_2.png" width="200px" height="200px" />
           </td>
         </tr>
         <!-- Mentor Name -->
