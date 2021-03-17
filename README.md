@@ -11,7 +11,7 @@
       <img src="mentor/mentor_1.jpg" width="200px" height="200px" />
     </td>
     <td colspan="2" style="text-align:center">
-      <img src="mentor/mentor_2.jpg" width="200px" height="200px" />
+      <img src="mentor/mentor_2.png" width="200px" height="200px" />
     </td>
   </tr>
   <!-- Mentor Name -->
@@ -41,11 +41,9 @@
       경력
     </td>
     <td style="text-align:center">
-      <ul>
-        <li>(현) 삼성 디스플레이</li>
-        <li>(전) 인플랩</li>
-        <li>(전) 프리랜서</li>
-      </ul>
+        (현) 삼성 디스플레이<br />
+        (전) 인플랩<br />
+        (전) 프리랜서
     </td>
   </tr>
   <!-- Main Field -->
