@@ -8,7 +8,7 @@
   <thead>
     <tr style="background-color:#fff">
       <th colspan="2" style="text-align:center">
-        <img src="mentor/mentor_1.png">
+        <img src="mentor/mentor_1.jpg" width="200px" height="200px" />
       </th>
     </tr>
   </thead>
