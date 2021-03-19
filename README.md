@@ -1,9 +1,9 @@
-# HICC 개발 프로젝트
+# :ocean: HICC 개발 프로젝트
 이 프로젝트는 HICC 동아리원들이 개발 프로젝트 경험을 쌓을 수 있게 해주는 프로젝트입니다.
 
 졸업한 동아리 선배나 프로젝트 경험이 풍부한 고학년 선배들이 멘토로 참여해서 좋은 프로젝트 경험을 쌓도록 도와줍니다.
 
-# 멘토 소개
+# :mortar_board: 멘토 소개
 <table>
   <!-- Mentore Image -->
   <tr style="background-color:#fff">
@@ -63,9 +63,9 @@
   </tr>
 </table>
 
-# 프로그램 상세
+# :clapper: 프로그램 상세
 
-### 프로젝트 입문
+### [프로젝트 입문](https://github.com/HICC-Introduction/Common/tree/main)
 위 프로그램은 개발 프로젝트를 처음 해보는 사람들을 대상으로 멘토가 2주 동안 개발 프로젝트를 하는 방법을 멘토링 해주는 프로그램입니다.
 
 ### 해커톤
@@ -74,7 +74,7 @@
 ### 부트캠프
 위 프로그램은 개인 또는 팀별로 멘토와 함께, 2주 동안 여러 사람과 협업하며 서비스를 개발해보는 프로그램입니다.
 
-# 참가조건
+# :heavy_check_mark: 참가조건
 
 ### 공통
 - 학습의지가 있는 사람이어야 합니다.
@@ -96,7 +96,7 @@
 - Git을 사용할 줄 알아야 합니다.
   - 기본적인 Commit, Push, Pull, Branch 정도는 알아야 합니다.
 
-# Q&A
+# :raised_hand_with_fingers_splayed: Q&A
 궁금한 점이 있으시다면 [issue탭](https://github.com/HICC-Official/Common/issues)에 질문을 올려주세요!
 
 ### 규칙
@@ -104,5 +104,5 @@
 - 질문을 삭제하지 말아주세요. 답변자의 노고가 사라집니다.
 - 궁금증이 해결되셨으면 close 버튼을 눌러주세요.
 
-# Notion 소개 페이지
+# :earth_asia: Notion 소개 페이지
 [Notion 소개 페이지 Go! Go!](https://www.notion.so/HICC-3b4f73106d7441e6b2e5d38db3943ad9)
