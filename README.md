@@ -30,22 +30,6 @@
     </td>
   </tr>
   <!-- Mentor Position -->
-  <tr style="background-color:#fff">
-    <td class="text-center"style="text-align:center">
-      경력
-    </td>
-    <td style="text-align:center">
-      (현) 네이버
-    </td>
-    <td class="text-center" style="text-align:center">
-      경력
-    </td>
-    <td style="text-align:center">
-        (현) 삼성 디스플레이<br />
-        (전) 인플랩<br />
-        (전) 프리랜서
-    </td>
-  </tr>
   <!-- Main Field -->
   <tr style="background-color:#fff">
     <td  class="text-center" style="text-align:center">
