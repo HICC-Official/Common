@@ -51,7 +51,7 @@
       주요 분야
     </td>
     <td  class="text-center" style="text-align:center">
-      하드웨어, 임베디드, 파이썬 등
+      반도체 설계, 하드웨어, 임베디드, 설비제어 등
     </td>
     <td  class="text-center" style="text-align:center">
       주요 분야
