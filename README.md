@@ -13,6 +13,9 @@
     <td colspan="2" style="text-align:center">
       <img src="mentor/mentor_2.png" width="200px" height="200px" />
     </td>
+    <td colspan="2" style="text-align:center">
+      <img src="mentor/mentor_3.png" width="200px" height="200px" />
+    </td>
   </tr>
   <!-- Mentor Name -->
   <tr style="background-color:#fff">
@@ -27,6 +30,12 @@
     </td>
     <td class="mentor-name" id="guardian_demon">
       Guardian_demoN
+    </td>
+    <td class="text-center" style="text-align:center">
+      이름
+    </td>
+    <td class="mentor-name" id="guardian_demon">
+      brandon
     </td>
   </tr>
   <!-- Mentor Position -->
@@ -43,6 +52,12 @@
     </td>
     <td  class="text-center" style="text-align:center">
       하드웨어, 타당성 등
+    </td>
+    <td  class="text-center" style="text-align:center">
+      주요 분야
+    </td>
+    <td  class="text-center" style="text-align:center">
+      FE / BE
     </td>
   </tr>
 </table>
