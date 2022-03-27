@@ -60,7 +60,7 @@
       주요 분야
     </td>
     <td  class="text-center" style="text-align:center">
-      반도체 설계, 하드웨어, 임베디드, 설비제어 등
+      FPGA, PLC, MCU, Python 외
     </td>
     <td  class="text-center" style="text-align:center">
       주요 분야
