@@ -16,9 +16,6 @@
     <td colspan="2" style="text-align:center">
       <img src="mentor/mentor_3.png" width="200px" height="200px" />
     </td>
-    <td colspan="2" style="text-align:center">
-      <img src="mentor/mentor_4.jpeg" width="200px" height="200px" />
-    </td>
   </tr>
   <!-- Mentor Name -->
   <tr style="background-color:#fff">
@@ -40,12 +37,6 @@
     <td class="mentor-name" id="guardian_demon">
       brandon
     </td>
-    <td class="text-center" style="text-align:center">
-      이름
-    </td>
-    <td class="mentor-name" id="puterism">
-      Puterism
-    </td>
   </tr>
   <!-- Mentor Position -->
   <!-- Main Field -->
@@ -54,7 +45,7 @@
       주요 분야
     </td>
     <td  class="text-center" style="text-align:center">
-      웹 백엔드
+      BE
     </td>
     <td  class="text-center" style="text-align:center">
       주요 분야
@@ -68,6 +59,21 @@
     <td  class="text-center" style="text-align:center">
       FE / BE
     </td>
+  </tr>
+  <tr style="background-color:#fff">
+    <td colspan="2" style="text-align:center">
+      <img src="mentor/mentor_4.jpeg" width="200px" height="200px" />
+    </td>
+  </tr>
+  <tr style="background-color:#fff">
+    <td class="text-center" style="text-align:center">
+      이름
+    </td>
+    <td class="mentor-name" id="puterism">
+      Puterism
+    </td>
+  </tr>
+  <tr style="background-color:#fff">
     <td  class="text-center" style="text-align:center">
       주요 분야
     </td>
