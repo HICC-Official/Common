@@ -64,6 +64,9 @@
     <td colspan="2" style="text-align:center">
       <img src="mentor/mentor_4.jpeg" width="200px" height="200px" />
     </td>
+    <td colspan="2" style="text-align:center">
+      <img src="mentor/mentor_5.jpeg" width="200px" height="200px" />
+    </td>
   </tr>
   <tr style="background-color:#fff">
     <td class="text-center" style="text-align:center">
@@ -72,6 +75,12 @@
     <td class="mentor-name" id="puterism">
       Puterism
     </td>
+    <td class="text-center" style="text-align:center">
+      이름
+    </td>
+    <td class="mentor-name" id="puterism">
+      조민기
+    </td>
   </tr>
   <tr style="background-color:#fff">
     <td  class="text-center" style="text-align:center">
@@ -79,6 +88,12 @@
     </td>
     <td  class="text-center" style="text-align:center">
       FE
+    </td>
+    <td  class="text-center" style="text-align:center">
+      주요 분야
+    </td>
+    <td  class="text-center" style="text-align:center">
+      게임, 클라이언트
     </td>
   </tr>
 </table>
